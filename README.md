@@ -1,6 +1,6 @@
-a cnn model for kaggle competition :https://www.kaggle.com/c/digit-recognizer
+a cnn model writed by tensorflow frameork for kaggle competition :https://www.kaggle.com/c/digit-recognizer
 
-the evaluation accuracy: 0.99
+the evaluation accuracy: 0.99.I wont do the test for reason of time
 
 the output of the evaluation like this:
 
